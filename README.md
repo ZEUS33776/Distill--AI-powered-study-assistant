@@ -271,4 +271,4 @@ If you encounter any issues or have questions:
 
 ---
 
-**Built with ❤️ using modern web technologies**
+**Built with ❤️ by Arjun Deshmukh using modern web technologies**

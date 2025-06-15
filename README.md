@@ -259,15 +259,6 @@ If you encounter any issues or have questions:
 3. Ensure all environment variables are properly configured
 4. Verify API keys and service availability
 
-## 🔮 Roadmap
-
-- [ ] Support for more document formats (Word, PowerPoint, etc.)
-- [ ] Batch processing for multiple files
-- [ ] Advanced search and filtering
-- [ ] Export chat conversations
-- [ ] Mobile app development
-- [ ] Integration with more AI models
-- [ ] Real-time collaboration features
 
 ---
 
